@@ -2,7 +2,7 @@
 
 ## Project Description
 
-ResumeHacks is a tool that immediately generates a custom resume for its users based upon key-word searches. More information regarding the project can be sought by vising the following devpost link: 
+ResumeHacks is a tool that immediately generates a custom resume for its users based upon key-word searches. More information regarding the project can be sought by vising the following devpost link: https://devpost.com/software/resume-hacks
 
 ## Technology Used:
 
